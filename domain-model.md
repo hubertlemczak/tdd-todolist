@@ -3,4 +3,4 @@
 class toDoList
 
 toDoItem
-properties - ID (Number)- description (String)- completeStatus (Boolean)
+properties: ID (Number), description (String), completeStatus (Boolean)
