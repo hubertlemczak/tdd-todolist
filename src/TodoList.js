@@ -64,8 +64,7 @@ class toDoList {
 // // newToDoList.sortByStatus(false);
 // console.log(newToDoList.getAll());
 // console.log(newToDoList.searchToDoItem(2));
-
 // newToDoList.getAll();
 // console.log('hehe', newToDoList.sortByStatus(false));
-//
+
 module.exports = toDoList;
